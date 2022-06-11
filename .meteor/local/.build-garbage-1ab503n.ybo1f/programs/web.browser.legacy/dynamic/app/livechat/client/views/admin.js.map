@@ -1,0 +1,1 @@
+{"version":3,"sources":["meteor://💻app/app/livechat/client/views/admin.js"],"names":["module","link"],"mappings":";;;;;;;;AAAAA,MAAM,CAACC,IAAP,CAAY,8BAAZ,E","file":"dynamic/app/livechat/client/views/admin.js","sourcesContent":["import './app/livechatDashboard.html';\n"]}

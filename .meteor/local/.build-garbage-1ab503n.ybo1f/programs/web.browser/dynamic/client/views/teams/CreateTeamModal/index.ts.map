@@ -1,0 +1,1 @@
+{"version":3,"sources":["meteor://💻app/client/views/teams/CreateTeamModal/index.ts"],"names":[],"mappings":";;;;;;;;AAAA,OAAO,IAAP,CAAS,mBAAT,EAAwB;AAAA;AAAA,CAAxB,EAA4C,CAA5C,E","file":"dynamic/client/views/teams/CreateTeamModal/index.ts","sourcesContent":["export { default } from './CreateTeamModal';\n"]}

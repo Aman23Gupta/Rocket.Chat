@@ -1,0 +1,1 @@
+{"version":3,"sources":["meteor://💻app/client/components/RoomIcon/index.tsx"],"names":[],"mappings":";;;;;;;;AAAA,0BAAc;AAAY,OAAC;AAAb,CAAd,EAA2B,CAA3B,E","file":"dynamic/client/components/RoomIcon/index.tsx","sourcesContent":["export * from './RoomIcon';\n"]}

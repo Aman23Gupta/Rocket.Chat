@@ -1,0 +1,1 @@
+{"version":3,"sources":["meteor://💻app/client/views/teams/contextualBar/channels/index.ts"],"names":[],"mappings":";;;;;;;;AAAA,OAAO,IAAP,CAAS,iBAAT,EAAwB;AAAA;AAAA,CAAxB,EAA0C,CAA1C,E","file":"dynamic/client/views/teams/contextualBar/channels/index.ts","sourcesContent":["export { default } from './TeamsChannels';\n"]}

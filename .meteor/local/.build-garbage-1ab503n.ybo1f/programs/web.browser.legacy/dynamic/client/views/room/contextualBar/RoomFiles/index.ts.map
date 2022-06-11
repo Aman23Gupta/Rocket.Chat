@@ -1,0 +1,1 @@
+{"version":3,"sources":["meteor://💻app/client/views/room/contextualBar/RoomFiles/index.ts"],"names":[],"mappings":";;;;;;;;AAAA,OAAO,IAAP,CAAS,qBAAT,EAAwB;AAAA;AAAA,CAAxB,EAA8C,CAA9C,E","file":"dynamic/client/views/room/contextualBar/RoomFiles/index.ts","sourcesContent":["export { default } from './RoomFilesWithData';\n"]}

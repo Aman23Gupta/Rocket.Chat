@@ -1,0 +1,1 @@
+{"version":3,"sources":["meteor://💻app/client/views/teams/ConvertToChannelModal/index.ts"],"names":[],"mappings":";;;;;;;;AAAA,OAAO,IAAP,CAAS,yBAAT,EAAwB;AAAA;AAAA,CAAxB,EAAkD,CAAlD,E","file":"dynamic/client/views/teams/ConvertToChannelModal/index.ts","sourcesContent":["export { default } from './ConvertToChannelModal';\n"]}

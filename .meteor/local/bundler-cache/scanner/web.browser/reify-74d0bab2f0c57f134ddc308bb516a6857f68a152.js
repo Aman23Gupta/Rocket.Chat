@@ -1,0 +1,39 @@
+let _jsx,_jsxs;module.link("react/jsx-runtime",{jsx(v){_jsx=v},jsxs(v){_jsxs=v}},0);let FieldGroup,Field,ButtonGroup,Button,Box,EmailInput,TextInput,Select,CheckBox,Grid;module.link('@rocket.chat/fuselage',{FieldGroup(v){FieldGroup=v},Field(v){Field=v},ButtonGroup(v){ButtonGroup=v},Button(v){Button=v},Box(v){Box=v},EmailInput(v){EmailInput=v},TextInput(v){TextInput=v},Select(v){Select=v},CheckBox(v){CheckBox=v},Grid(v){Grid=v}},1);let useForm,Controller;module.link('react-hook-form',{useForm(v){useForm=v},Controller(v){Controller=v}},2);let useTranslation,Trans;module.link('react-i18next',{useTranslation(v){useTranslation=v},Trans(v){Trans=v}},3);let Form;module.link('../../common/Form',{default(v){Form=v}},4);let Tooltip;module.link('../../common/InformationTooltipTrigger',{default(v){Tooltip=v}},5);let WorkspaceUrlInput;module.link('./WorkspaceUrlInput',{default(v){WorkspaceUrlInput=v}},6);var __assign = (this && this.__assign) || function () {
+    __assign = Object.assign || function(t) {
+        for (var s, i = 1, n = arguments.length; i < n; i++) {
+            s = arguments[i];
+            for (var p in s) if (Object.prototype.hasOwnProperty.call(s, p))
+                t[p] = s[p];
+        }
+        return t;
+    };
+    return __assign.apply(this, arguments);
+};
+
+
+
+
+
+
+
+var CreateCloudWorkspaceForm = function (_a) {
+    var _b, _c, _d, _e, _f, _g, _h;
+    var onSubmit = _a.onSubmit, domain = _a.domain, serverRegionOptions = _a.serverRegionOptions, languageOptions = _a.languageOptions, validateUrl = _a.validateUrl, validateEmail = _a.validateEmail;
+    var t = useTranslation().t;
+    var _j = useForm({ mode: 'onChange' }), register = _j.register, control = _j.control, handleSubmit = _j.handleSubmit, _k = _j.formState, isValid = _k.isValid, isValidating = _k.isValidating, isSubmitting = _k.isSubmitting, errors = _k.errors;
+    return (_jsxs(Form, __assign({ onSubmit: handleSubmit(onSubmit) }, { children: [_jsx(Form.Title, { children: t('form.createCloudWorkspace.title') }, void 0), _jsxs(FieldGroup, __assign({ mbs: 'x16' }, { children: [_jsxs(Field, { children: [_jsx(Field.Label, { children: t('form.createCloudWorkspace.fields.orgEmail.label') }, void 0), _jsx(Field.Row, { children: _jsx(EmailInput, __assign({ error: ((_b = errors === null || errors === void 0 ? void 0 : errors.organizationEmail) === null || _b === void 0 ? void 0 : _b.type) || undefined }, register('organizationEmail', {
+                                    required: true,
+                                    validate: validateEmail,
+                                })), void 0) }, void 0), ((_c = errors.organizationEmail) === null || _c === void 0 ? void 0 : _c.type) === 'required' && (_jsx(Field.Error, { children: t('component.form.requiredField') }, void 0)), ((_d = errors.organizationEmail) === null || _d === void 0 ? void 0 : _d.type) === 'validate' && (_jsx(Field.Error, { children: t('form.createCloudWorkspace.fields.orgEmail.invalid') }, void 0))] }, void 0), _jsxs(Field, { children: [_jsx(Field.Label, { children: _jsx(Box, __assign({ display: 'inline', mie: 'x8' }, { children: t('form.createCloudWorkspace.fields.workspaceName.label') }), void 0) }, void 0), _jsx(Field.Row, { children: _jsx(TextInput, __assign({ error: ((_e = errors === null || errors === void 0 ? void 0 : errors.workspaceName) === null || _e === void 0 ? void 0 : _e.type) || undefined }, register('workspaceName', { required: true })), void 0) }, void 0), errors.workspaceName && (_jsx(Field.Error, { children: t('component.form.requiredField') }, void 0))] }, void 0), _jsxs(Field, { children: [_jsx(Field.Label, { children: _jsx(Box, __assign({ display: 'inline', mie: 'x8' }, { children: t('form.createCloudWorkspace.fields.workspaceUrl.label') }), void 0) }, void 0), _jsx(Field.Row, { children: _jsx(WorkspaceUrlInput, __assign({ domain: domain }, register('workspaceURL', {
+                                    required: true,
+                                    validate: validateUrl,
+                                })), void 0) }, void 0), ((_f = errors.workspaceURL) === null || _f === void 0 ? void 0 : _f.type) === 'required' && (_jsx(Field.Error, { children: t('component.form.requiredField') }, void 0)), ((_g = errors.workspaceURL) === null || _g === void 0 ? void 0 : _g.type) === 'validate' && (_jsx(Field.Error, { children: t('form.createCloudWorkspace.fields.workspaceUrl.exists') }, void 0))] }, void 0), _jsxs(Grid, __assign({ mb: 'x16' }, { children: [_jsx(Grid.Item, { children: _jsxs(Field, { children: [_jsxs(Field.Label, { children: [_jsx(Box, __assign({ display: 'inline', mie: 'x8' }, { children: t('form.createCloudWorkspace.fields.serverRegion.label') }), void 0), _jsx(Tooltip, { text: t('form.createCloudWorkspace.fields.serverRegion.tooltip') }, void 0)] }, void 0), _jsx(Field.Row, { children: _jsx(Controller, { name: 'serverRegion', control: control, render: function (_a) {
+                                                    var field = _a.field;
+                                                    return (_jsx(Select, __assign({}, field, { options: serverRegionOptions, placeholder: t('form.createCloudWorkspace.fields.serverRegion.label') }), void 0));
+                                                } }, void 0) }, void 0)] }, void 0) }, void 0), _jsx(Grid.Item, { children: _jsxs(Field, { children: [_jsxs(Field.Label, { children: [_jsx(Box, __assign({ display: 'inline', mie: 'x8' }, { children: t('form.createCloudWorkspace.fields.language.label') }), void 0), _jsx(Tooltip, { text: t('form.createCloudWorkspace.fields.language.tooltip') }, void 0)] }, void 0), _jsx(Field.Row, { children: _jsx(Controller, { name: 'language', control: control, render: function (_a) {
+                                                    var field = _a.field;
+                                                    return (_jsx(Select, __assign({}, field, { options: languageOptions, placeholder: t('form.createCloudWorkspace.fields.language.label') }), void 0));
+                                                } }, void 0) }, void 0)] }, void 0) }, void 0)] }), void 0), _jsxs(Field, { children: [_jsxs(Field.Row, __assign({ justifyContent: 'flex-start' }, { children: [_jsx(CheckBox, __assign({}, register('agreement', { required: true }), { mie: 'x8' }), void 0), _jsx(Box, __assign({ is: 'label', htmlFor: 'agreement', withRichContent: true, fontScale: 'c1' }, { children: _jsxs(Trans, __assign({ i18nKey: 'component.form.termsAndConditions' }, { children: ["I agree with", _jsx("a", __assign({ href: 'https://rocket.chat/terms', target: '_blank', rel: 'noopener noreferrer' }, { children: "Terms and Conditions" }), void 0), "and", _jsx("a", __assign({ href: 'https://rocket.chat/policy', target: '_blank', rel: 'noopener noreferrer' }, { children: "Privacy Policy" }), void 0)] }), void 0) }), void 0)] }), void 0), ((_h = errors.agreement) === null || _h === void 0 ? void 0 : _h.type) === 'required' && (_jsx(Field.Error, { children: t('component.form.requiredField') }, void 0))] }, void 0), _jsx(Field, { children: _jsxs(Field.Row, __assign({ justifyContent: 'flex-start' }, { children: [_jsx(CheckBox, __assign({}, register('updates'), { mie: 'x8' }), void 0), _jsx(Box, __assign({ fontScale: 'c1' }, { children: t('form.createCloudWorkspace.fields.keepMeInformed') }), void 0)] }), void 0) }, void 0)] }), void 0), _jsx(Form.Footer, { children: _jsx(ButtonGroup, { children: _jsx(Button, __assign({ type: 'submit', primary: true, disabled: isValidating || isSubmitting || !isValid }, { children: t('component.form.action.next') }), void 0) }, void 0) }, void 0)] }), void 0));
+};
+module.exportDefault(CreateCloudWorkspaceForm);
+//# sourceMappingURL=CreateCloudWorkspaceForm.js.map

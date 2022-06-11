@@ -1,0 +1,1 @@
+{"version":3,"sources":["meteor://💻app/app/mentions/client/index.js"],"names":["module","link","createMentionsMessageRenderer"],"mappings":";;;;;;;;AAAAA,MAAM,CAACC,IAAP,CAAY,UAAZ,EAAuB;AAACC,+BAA6B,EAAC;AAA/B,CAAvB,EAAuF,CAAvF,E","file":"dynamic/app/mentions/client/index.js","sourcesContent":["export { createMentionsMessageRenderer } from './client';\n"]}

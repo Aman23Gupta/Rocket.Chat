@@ -1,0 +1,1 @@
+{"version":3,"sources":["meteor://💻app/ee/client/omnichannel/components/CannedResponse/modals/index.ts"],"names":[],"mappings":";;;;;;;;AAAA,OAAO,IAAP,CAAS,wBAAT,EAAwB;AAAA;AAAA,CAAxB,EAAiD,CAAjD,E","file":"dynamic/ee/client/omnichannel/components/CannedResponse/modals/index.ts","sourcesContent":["export { default } from './CreateCannedResponse';\n"]}

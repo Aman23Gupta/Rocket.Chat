@@ -1,0 +1,1 @@
+{"version":3,"sources":["meteor://💻app/client/components/Message/Attachments/index.tsx"],"names":[],"mappings":";;;;;;;;AAAA,OAAO,IAAP,CAAS,eAAT,EAAwB;AAAA;AAAA,CAAxB,EAAwC,CAAxC,E","file":"dynamic/client/components/Message/Attachments/index.tsx","sourcesContent":["export { default } from './Attachments';\n"]}

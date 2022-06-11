@@ -1,0 +1,1 @@
+{"version":3,"sources":["meteor://💻app/app/autolinker/client/index.js"],"names":["module","link","createAutolinkerMessageRenderer"],"mappings":";;;;;;;;AAAAA,MAAM,CAACC,IAAP,CAAY,UAAZ,EAAuB;AAACC,iCAA+B,EAAC;AAAjC,CAAvB,EAA2F,CAA3F,E","file":"dynamic/app/autolinker/client/index.js","sourcesContent":["export { createAutolinkerMessageRenderer } from './client';\n"]}

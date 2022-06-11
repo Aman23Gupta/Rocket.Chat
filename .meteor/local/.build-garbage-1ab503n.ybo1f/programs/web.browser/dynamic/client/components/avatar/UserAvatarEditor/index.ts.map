@@ -1,0 +1,1 @@
+{"version":3,"sources":["meteor://💻app/client/components/avatar/UserAvatarEditor/index.ts"],"names":[],"mappings":";;;;;;;;AAAA,OAAO,IAAP,CAAS,oBAAT,EAAwB;AAAA;AAAA,CAAxB,EAA6C,CAA7C,E","file":"dynamic/client/components/avatar/UserAvatarEditor/index.ts","sourcesContent":["export { default } from './UserAvatarEditor';\n"]}

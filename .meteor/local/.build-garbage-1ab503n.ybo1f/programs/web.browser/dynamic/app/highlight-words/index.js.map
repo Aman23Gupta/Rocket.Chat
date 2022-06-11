@@ -1,0 +1,1 @@
+{"version":3,"sources":["meteor://💻app/app/highlight-words/index.js"],"names":["module","link"],"mappings":";;;;;;;;AAAAA,MAAM,CAACC,IAAP,CAAY,gBAAZ,EAA6B;AAAC,OAAI;AAAL,CAA7B,EAAuC,CAAvC,E","file":"dynamic/app/highlight-words/index.js","sourcesContent":["export * from './client/index';\n"]}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["meteor://💻app/client/views/room/contextualBar/UserInfo/UserWebRTC/index.ts"],"names":[],"mappings":";;;;;;;;AAAA,OAAO,IAAP,CAAS,sBAAT,EAAwB;AAAA;AAAA,CAAxB,EAA+C,CAA/C,E","file":"dynamic/client/views/room/contextualBar/UserInfo/UserWebRTC/index.ts","sourcesContent":["export { default } from './UserWebRTCWithData';\n"]}

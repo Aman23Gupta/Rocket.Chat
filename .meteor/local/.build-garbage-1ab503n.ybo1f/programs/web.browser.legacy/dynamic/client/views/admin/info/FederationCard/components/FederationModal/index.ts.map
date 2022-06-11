@@ -1,0 +1,1 @@
+{"version":3,"sources":["meteor://💻app/client/views/admin/info/FederationCard/components/FederationModal/index.ts"],"names":[],"mappings":";;;;;;;;AAAA,iCAAc;AAAmB,OAAC;AAApB,CAAd,EAAkC,CAAlC,E","file":"dynamic/client/views/admin/info/FederationCard/components/FederationModal/index.ts","sourcesContent":["export * from './FederationModal';\n"]}

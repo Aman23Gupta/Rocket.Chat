@@ -1,0 +1,1 @@
+{"version":3,"sources":["meteor://💻app/client/views/room/Header/index.ts"],"names":[],"mappings":";;;;;;;;AAAA,OAAO,IAAP,CAAS,UAAT,EAAkB;AAAM;AAAN,CAAlB,EAAmC,CAAnC,E","file":"dynamic/client/views/room/Header/index.ts","sourcesContent":["export { default } from './Header';\n"]}

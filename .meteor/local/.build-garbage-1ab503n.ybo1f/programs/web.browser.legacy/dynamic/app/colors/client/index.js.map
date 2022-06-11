@@ -1,0 +1,1 @@
+{"version":3,"sources":["meteor://💻app/app/colors/client/index.js"],"names":["module","link","createHexColorPreviewMessageRenderer"],"mappings":";;;;;;;;AAAAA,MAAM,CAACC,IAAP,CAAY,UAAZ,EAAuB;AAACC,sCAAoC,EAAC;AAAtC,CAAvB,EAAqG,CAArG,E","file":"dynamic/app/colors/client/index.js","sourcesContent":["export { createHexColorPreviewMessageRenderer } from './client';\n"]}

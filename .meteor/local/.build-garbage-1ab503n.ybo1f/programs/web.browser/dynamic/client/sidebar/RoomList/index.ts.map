@@ -1,0 +1,1 @@
+{"version":3,"sources":["meteor://💻app/client/sidebar/RoomList/index.ts"],"names":[],"mappings":";;;;;;;;AAAA,OAAO,IAAP,CAAS,YAAT,EAAwB;AAAA;AAAA,CAAxB,EAAqC,CAArC,E","file":"dynamic/client/sidebar/RoomList/index.ts","sourcesContent":["export { default } from './RoomList';\n"]}

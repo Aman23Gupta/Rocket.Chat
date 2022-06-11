@@ -1,0 +1,1 @@
+{"version":3,"sources":["meteor://💻app/client/views/admin/info/FederationCard/index.ts"],"names":[],"mappings":";;;;;;;;AAAA,OAAO,IAAP,CAAS,kBAAT,EAAwB;AAAA;AAAA,CAAxB,EAA2C,CAA3C,E","file":"dynamic/client/views/admin/info/FederationCard/index.ts","sourcesContent":["export { default } from './FederationCard';\n"]}

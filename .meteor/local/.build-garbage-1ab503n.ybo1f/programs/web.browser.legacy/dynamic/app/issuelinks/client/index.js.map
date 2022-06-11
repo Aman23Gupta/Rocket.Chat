@@ -1,0 +1,1 @@
+{"version":3,"sources":["meteor://💻app/app/issuelinks/client/index.js"],"names":["module","link","createIssueLinksMessageRenderer"],"mappings":";;;;;;;;AAAAA,MAAM,CAACC,IAAP,CAAY,UAAZ,EAAuB;AAACC,iCAA+B,EAAC;AAAjC,CAAvB,EAA2F,CAA3F,E","file":"dynamic/app/issuelinks/client/index.js","sourcesContent":["export { createIssueLinksMessageRenderer } from './client';\n"]}

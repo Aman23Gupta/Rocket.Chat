@@ -1,0 +1,1 @@
+{"version":3,"sources":["meteor://💻app/client/components/RoomIcon/OmnichannelRoomIcon/index.tsx"],"names":[],"mappings":";;;;;;;;AAAA,qCAAc;AAAuB,OAAC;AAAxB,CAAd,EAAsC,CAAtC,E","file":"dynamic/client/components/RoomIcon/OmnichannelRoomIcon/index.tsx","sourcesContent":["export * from './OmnichannelRoomIcon';\n"]}

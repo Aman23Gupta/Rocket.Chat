@@ -1,0 +1,650 @@
+{
+  "builtBy": "meteor/34",
+  "unibuildDependencies": {
+    "os.json": {
+      "files": {
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/package.js": "e73b428a2a7413f381424551d3ae72d7c59e0843",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/af.i18n.json": "8e3ffae48fc822a7ab7bdb78522363ff221eaf06",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/ar.i18n.json": "e4e7dda327d1e49d4793c48d96721f738f475369",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/az.i18n.json": "0477bbdfe8540f553c7b299716a332a972b0b918",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/be-BY.i18n.json": "b10edb28ee76083d41c10ed2bfe79582d43e2609",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/bg.i18n.json": "6e8246e73f42b24224b087c8b36fea90f8364096",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/bn-BD.i18n.json": "b45b8b288072cd1ddea0bd3d3d44b4bad2b160bb",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/bn-IN.i18n.json": "bf6e878577f6fb30ecf27c8d2f6a9101f4b73e8d",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/bs.i18n.json": "f399bd2edb56c554f8e175a7b5d2c72f3c2463ff",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/ca.i18n.json": "ce1fcfeabfa6d4d2fd5b3c335a4c9a3aeb7fb3bd",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/cs.i18n.json": "fda0d379d09a3bcad4d32c562be66a5cab0ede15",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/cy.i18n.json": "fcfc160c6ddde37b01d45dd84dd2a0557d660047",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/da.i18n.json": "7f47d229eb8aba53186ffc24fee4a2dd2f80d492",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/de-AT.i18n.json": "072179266c985cbd2909bcccc903912714029f5e",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/de-IN.i18n.json": "8a5008f77d97712029d4f3b7cf7599162aaa14a3",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/de.i18n.json": "2974fd4f6a2aaefedd2cc260266c169b6ccecc74",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/el.i18n.json": "4dcb6f79eec65e05c9e84072d084de8ae2e0fa1d",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/en.i18n.json": "eee224a7cda47b560dbb60e441874d3222d5f702",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/eo.i18n.json": "ee5a70ca0eaef8edb411b8eb436db921b2da8f5f",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/es.i18n.json": "189b0728ad55e3f7c215113d46a60125eeecd2e7",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/et.i18n.json": "3d441703a73daa247ba5549878cf4887238e5e41",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/eu.i18n.json": "c2a97d6439eb2090ed22e63cc917be05538b7f65",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/fa.i18n.json": "5d48a3983502059a965402c1d9a2c998157175ec",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/fi.i18n.json": "c0fc0af74d36becc60246f324b7a53358813abba",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/fr.i18n.json": "7efbceb67e2ae45858817ed0991eb847b9332afd",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/gl.i18n.json": "981581090977a5ac6e38b0440944f71da44fd75a",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/he.i18n.json": "7183f5c9eb33953ff0bd1e9552581245a97a2291",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/hi-IN.i18n.json": "4754d83631b916bcd2a6dc4d5525a9f6ed46ad36",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/hr.i18n.json": "7252467656db8734524c5e645b86e58aec82dd86",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/hu.i18n.json": "6eb7d5fd8e0a0bbfa7e3b7870eebaf7129152aa9",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/id.i18n.json": "77f00fcc33a1083092e9c7f6dc4d1999d98a5041",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/it.i18n.json": "a5e42acc280ca0e26d62f47a5a2e4f41f9d5367a",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/ja.i18n.json": "b99b1a4c13ebbb1556188c39544670665452af75",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/ka-GE.i18n.json": "b427a4c0d860013619643b9e27e0752e60817699",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/km.i18n.json": "ca4f2c56c7a85d0ddd66eb5b19692494b356097c",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/ko.i18n.json": "60844aeaaf72409cabe5381cebb55dc5895df7c5",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/ku.i18n.json": "5b7035c64cd195f88d7c5a302eec5a0ddc022b82",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/lo.i18n.json": "47b443a1b09dc9f281362eae29a7b9c49f6052e9",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/lt.i18n.json": "637072612a6b9fd36d4ebc616db2a58957298d60",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/lv.i18n.json": "2535253f6d1ed14986cc61e6f5fae0aa65ffb131",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/mn.i18n.json": "533e84b380ee8f832334d01fedb349c6236d8f72",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/ms-MY.i18n.json": "9159d06546c207abea7b52c4b9a4e126ed754d73",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/nl.i18n.json": "dd5f8e71a02fe24f00672fecad4c270ad7b4ade3",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/no.i18n.json": "f6b38c368968957ef852f86332337e36a42d0258",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/pl.i18n.json": "a8f60c6fd0e34f1556665481d493ae90a484c56b",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/pt-BR.i18n.json": "2c32a92c882686b53c92764e51b5cc39191d39dc",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/pt.i18n.json": "0522583b08b9942bd1f993240a7bc03e3253b5ce",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/ro.i18n.json": "a003908d11af1fd40ea6e6d12c6ccf079f4ac5a5",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/ru.i18n.json": "e64edd9127a372e7122fa785ebfced46349b2c65",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/si.i18n.json": "13ce48e520d3a93c7589f03332af158326b54a71",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/sk-SK.i18n.json": "35899959ff30b1e5f02ff23185bc963e2f8d7203",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/sl-SI.i18n.json": "ef9094dc2acf5b0aa3c55010c5f26fd6b46f4d8e",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/sq.i18n.json": "0727c680cf7149ccb24787b2a8c851f23fa79759",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/sr.i18n.json": "5f7b98f87c421e91cdadb68711554badd0b9f51c",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/sv.i18n.json": "87909f87fa9965dc98c454c14e3885cd27ff7248",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/ta-IN.i18n.json": "aaef330b72a5da55359ca6eaedae8b689c5d3cc1",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/th-TH.i18n.json": "be823c3eb69a6511c852633938a2cc0147174177",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/tr.i18n.json": "41154e37c4a1facebe548aa8562d02e941973009",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/ug.i18n.json": "5eee10df3086921a2223bc551c129ca6ccd99dc9",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/uk.i18n.json": "2be6e1bb8514d6f8f6bd0b5ec6f96be3af4a4438",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/vi-VN.i18n.json": "bfc08b76c3ad74b3647292c8f98e4ac6622c79f5",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/zh-HK.i18n.json": "727fbabc1ccdd0a3ddc1b6787a65db3d01faef8b",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/zh-TW.i18n.json": "f43a66f58997ef3723836831e9ec41b7254a1326",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/zh.i18n.json": "8286e52b0373d337ee4515fa2943c71961318d5a",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/bas-CM.i18n.json": "4448e1dbcb7f6e8f55f2f5b257a1169d8c4db209",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/kg.i18n.json": "4448e1dbcb7f6e8f55f2f5b257a1169d8c4db209",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/ln.i18n.json": "4448e1dbcb7f6e8f55f2f5b257a1169d8c4db209"
+      },
+      "potentiallyUnusedFiles": [],
+      "directories": [
+        {
+          "absPath": "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n",
+          "include": [
+            "\\.i18n$",
+            "\\.project\\-tap\\.i18n$",
+            "\\.package\\-tap\\.i18n$",
+            "\\.i18n\\.json$",
+            "\\.i18n\\.yml$",
+            "\\.js$"
+          ],
+          "exclude": [
+            "^\\."
+          ],
+          "names": [
+            ".meteorignore"
+          ],
+          "contents": [
+            "package.js"
+          ]
+        },
+        {
+          "absPath": "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n",
+          "include": [
+            "\\/$"
+          ],
+          "exclude": [
+            "^\\."
+          ],
+          "contents": [
+            "i18n/"
+          ]
+        },
+        {
+          "absPath": "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n",
+          "include": [
+            "\\.i18n$",
+            "\\.project\\-tap\\.i18n$",
+            "\\.package\\-tap\\.i18n$",
+            "\\.i18n\\.json$",
+            "\\.i18n\\.yml$",
+            "\\.js$"
+          ],
+          "exclude": [
+            "^\\."
+          ],
+          "names": [
+            ".meteorignore"
+          ],
+          "contents": [
+            "af.i18n.json",
+            "ar.i18n.json",
+            "az.i18n.json",
+            "bas-CM.i18n.json",
+            "be-BY.i18n.json",
+            "bg.i18n.json",
+            "bn-BD.i18n.json",
+            "bn-IN.i18n.json",
+            "bs.i18n.json",
+            "ca.i18n.json",
+            "cs.i18n.json",
+            "cy.i18n.json",
+            "da.i18n.json",
+            "de-AT.i18n.json",
+            "de-IN.i18n.json",
+            "de.i18n.json",
+            "el.i18n.json",
+            "en.i18n.json",
+            "eo.i18n.json",
+            "es.i18n.json",
+            "et.i18n.json",
+            "eu.i18n.json",
+            "fa.i18n.json",
+            "fi.i18n.json",
+            "fr.i18n.json",
+            "gl.i18n.json",
+            "he.i18n.json",
+            "hi-IN.i18n.json",
+            "hr.i18n.json",
+            "hu.i18n.json",
+            "id.i18n.json",
+            "it.i18n.json",
+            "ja.i18n.json",
+            "ka-GE.i18n.json",
+            "kg.i18n.json",
+            "km.i18n.json",
+            "ko.i18n.json",
+            "ku.i18n.json",
+            "ln.i18n.json",
+            "lo.i18n.json",
+            "lt.i18n.json",
+            "lv.i18n.json",
+            "mn.i18n.json",
+            "ms-MY.i18n.json",
+            "nl.i18n.json",
+            "no.i18n.json",
+            "pl.i18n.json",
+            "pt-BR.i18n.json",
+            "pt.i18n.json",
+            "ro.i18n.json",
+            "ru.i18n.json",
+            "si.i18n.json",
+            "sk-SK.i18n.json",
+            "sl-SI.i18n.json",
+            "sq.i18n.json",
+            "sr.i18n.json",
+            "sv.i18n.json",
+            "ta-IN.i18n.json",
+            "th-TH.i18n.json",
+            "tr.i18n.json",
+            "ug.i18n.json",
+            "uk.i18n.json",
+            "vi-VN.i18n.json",
+            "zh-HK.i18n.json",
+            "zh-TW.i18n.json",
+            "zh.i18n.json"
+          ]
+        },
+        {
+          "absPath": "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n",
+          "include": [
+            "\\/$"
+          ],
+          "exclude": [
+            "^\\."
+          ],
+          "contents": []
+        }
+      ]
+    },
+    "web.browser.json": {
+      "files": {
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/package.js": "e73b428a2a7413f381424551d3ae72d7c59e0843",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/af.i18n.json": "8e3ffae48fc822a7ab7bdb78522363ff221eaf06",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/ar.i18n.json": "e4e7dda327d1e49d4793c48d96721f738f475369",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/az.i18n.json": "0477bbdfe8540f553c7b299716a332a972b0b918",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/be-BY.i18n.json": "b10edb28ee76083d41c10ed2bfe79582d43e2609",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/bg.i18n.json": "6e8246e73f42b24224b087c8b36fea90f8364096",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/bn-BD.i18n.json": "b45b8b288072cd1ddea0bd3d3d44b4bad2b160bb",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/bn-IN.i18n.json": "bf6e878577f6fb30ecf27c8d2f6a9101f4b73e8d",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/bs.i18n.json": "f399bd2edb56c554f8e175a7b5d2c72f3c2463ff",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/ca.i18n.json": "ce1fcfeabfa6d4d2fd5b3c335a4c9a3aeb7fb3bd",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/cs.i18n.json": "fda0d379d09a3bcad4d32c562be66a5cab0ede15",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/cy.i18n.json": "fcfc160c6ddde37b01d45dd84dd2a0557d660047",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/da.i18n.json": "7f47d229eb8aba53186ffc24fee4a2dd2f80d492",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/de-AT.i18n.json": "072179266c985cbd2909bcccc903912714029f5e",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/de-IN.i18n.json": "8a5008f77d97712029d4f3b7cf7599162aaa14a3",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/de.i18n.json": "2974fd4f6a2aaefedd2cc260266c169b6ccecc74",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/el.i18n.json": "4dcb6f79eec65e05c9e84072d084de8ae2e0fa1d",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/en.i18n.json": "eee224a7cda47b560dbb60e441874d3222d5f702",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/eo.i18n.json": "ee5a70ca0eaef8edb411b8eb436db921b2da8f5f",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/es.i18n.json": "189b0728ad55e3f7c215113d46a60125eeecd2e7",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/et.i18n.json": "3d441703a73daa247ba5549878cf4887238e5e41",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/eu.i18n.json": "c2a97d6439eb2090ed22e63cc917be05538b7f65",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/fa.i18n.json": "5d48a3983502059a965402c1d9a2c998157175ec",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/fi.i18n.json": "c0fc0af74d36becc60246f324b7a53358813abba",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/fr.i18n.json": "7efbceb67e2ae45858817ed0991eb847b9332afd",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/gl.i18n.json": "981581090977a5ac6e38b0440944f71da44fd75a",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/he.i18n.json": "7183f5c9eb33953ff0bd1e9552581245a97a2291",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/hi-IN.i18n.json": "4754d83631b916bcd2a6dc4d5525a9f6ed46ad36",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/hr.i18n.json": "7252467656db8734524c5e645b86e58aec82dd86",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/hu.i18n.json": "6eb7d5fd8e0a0bbfa7e3b7870eebaf7129152aa9",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/id.i18n.json": "77f00fcc33a1083092e9c7f6dc4d1999d98a5041",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/it.i18n.json": "a5e42acc280ca0e26d62f47a5a2e4f41f9d5367a",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/ja.i18n.json": "b99b1a4c13ebbb1556188c39544670665452af75",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/ka-GE.i18n.json": "b427a4c0d860013619643b9e27e0752e60817699",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/km.i18n.json": "ca4f2c56c7a85d0ddd66eb5b19692494b356097c",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/ko.i18n.json": "60844aeaaf72409cabe5381cebb55dc5895df7c5",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/ku.i18n.json": "5b7035c64cd195f88d7c5a302eec5a0ddc022b82",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/lo.i18n.json": "47b443a1b09dc9f281362eae29a7b9c49f6052e9",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/lt.i18n.json": "637072612a6b9fd36d4ebc616db2a58957298d60",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/lv.i18n.json": "2535253f6d1ed14986cc61e6f5fae0aa65ffb131",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/mn.i18n.json": "533e84b380ee8f832334d01fedb349c6236d8f72",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/ms-MY.i18n.json": "9159d06546c207abea7b52c4b9a4e126ed754d73",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/nl.i18n.json": "dd5f8e71a02fe24f00672fecad4c270ad7b4ade3",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/no.i18n.json": "f6b38c368968957ef852f86332337e36a42d0258",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/pl.i18n.json": "a8f60c6fd0e34f1556665481d493ae90a484c56b",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/pt-BR.i18n.json": "2c32a92c882686b53c92764e51b5cc39191d39dc",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/pt.i18n.json": "0522583b08b9942bd1f993240a7bc03e3253b5ce",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/ro.i18n.json": "a003908d11af1fd40ea6e6d12c6ccf079f4ac5a5",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/ru.i18n.json": "e64edd9127a372e7122fa785ebfced46349b2c65",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/si.i18n.json": "13ce48e520d3a93c7589f03332af158326b54a71",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/sk-SK.i18n.json": "35899959ff30b1e5f02ff23185bc963e2f8d7203",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/sl-SI.i18n.json": "ef9094dc2acf5b0aa3c55010c5f26fd6b46f4d8e",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/sq.i18n.json": "0727c680cf7149ccb24787b2a8c851f23fa79759",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/sr.i18n.json": "5f7b98f87c421e91cdadb68711554badd0b9f51c",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/sv.i18n.json": "87909f87fa9965dc98c454c14e3885cd27ff7248",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/ta-IN.i18n.json": "aaef330b72a5da55359ca6eaedae8b689c5d3cc1",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/th-TH.i18n.json": "be823c3eb69a6511c852633938a2cc0147174177",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/tr.i18n.json": "41154e37c4a1facebe548aa8562d02e941973009",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/ug.i18n.json": "5eee10df3086921a2223bc551c129ca6ccd99dc9",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/uk.i18n.json": "2be6e1bb8514d6f8f6bd0b5ec6f96be3af4a4438",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/vi-VN.i18n.json": "bfc08b76c3ad74b3647292c8f98e4ac6622c79f5",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/zh-HK.i18n.json": "727fbabc1ccdd0a3ddc1b6787a65db3d01faef8b",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/zh-TW.i18n.json": "f43a66f58997ef3723836831e9ec41b7254a1326",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/zh.i18n.json": "8286e52b0373d337ee4515fa2943c71961318d5a",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/bas-CM.i18n.json": "4448e1dbcb7f6e8f55f2f5b257a1169d8c4db209",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/kg.i18n.json": "4448e1dbcb7f6e8f55f2f5b257a1169d8c4db209",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/ln.i18n.json": "4448e1dbcb7f6e8f55f2f5b257a1169d8c4db209"
+      },
+      "potentiallyUnusedFiles": [],
+      "directories": [
+        {
+          "absPath": "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n",
+          "include": [
+            "\\.css$",
+            "\\.html$",
+            "\\.i18n$",
+            "\\.project\\-tap\\.i18n$",
+            "\\.package\\-tap\\.i18n$",
+            "\\.i18n\\.json$",
+            "\\.i18n\\.yml$",
+            "\\.js$"
+          ],
+          "exclude": [
+            "^\\."
+          ],
+          "names": [
+            ".meteorignore"
+          ],
+          "contents": [
+            "package.js"
+          ]
+        },
+        {
+          "absPath": "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n",
+          "include": [
+            "\\/$"
+          ],
+          "exclude": [
+            "^\\."
+          ],
+          "contents": [
+            "i18n/"
+          ]
+        },
+        {
+          "absPath": "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n",
+          "include": [
+            "\\.css$",
+            "\\.html$",
+            "\\.i18n$",
+            "\\.project\\-tap\\.i18n$",
+            "\\.package\\-tap\\.i18n$",
+            "\\.i18n\\.json$",
+            "\\.i18n\\.yml$",
+            "\\.js$"
+          ],
+          "exclude": [
+            "^\\."
+          ],
+          "names": [
+            ".meteorignore"
+          ],
+          "contents": [
+            "af.i18n.json",
+            "ar.i18n.json",
+            "az.i18n.json",
+            "bas-CM.i18n.json",
+            "be-BY.i18n.json",
+            "bg.i18n.json",
+            "bn-BD.i18n.json",
+            "bn-IN.i18n.json",
+            "bs.i18n.json",
+            "ca.i18n.json",
+            "cs.i18n.json",
+            "cy.i18n.json",
+            "da.i18n.json",
+            "de-AT.i18n.json",
+            "de-IN.i18n.json",
+            "de.i18n.json",
+            "el.i18n.json",
+            "en.i18n.json",
+            "eo.i18n.json",
+            "es.i18n.json",
+            "et.i18n.json",
+            "eu.i18n.json",
+            "fa.i18n.json",
+            "fi.i18n.json",
+            "fr.i18n.json",
+            "gl.i18n.json",
+            "he.i18n.json",
+            "hi-IN.i18n.json",
+            "hr.i18n.json",
+            "hu.i18n.json",
+            "id.i18n.json",
+            "it.i18n.json",
+            "ja.i18n.json",
+            "ka-GE.i18n.json",
+            "kg.i18n.json",
+            "km.i18n.json",
+            "ko.i18n.json",
+            "ku.i18n.json",
+            "ln.i18n.json",
+            "lo.i18n.json",
+            "lt.i18n.json",
+            "lv.i18n.json",
+            "mn.i18n.json",
+            "ms-MY.i18n.json",
+            "nl.i18n.json",
+            "no.i18n.json",
+            "pl.i18n.json",
+            "pt-BR.i18n.json",
+            "pt.i18n.json",
+            "ro.i18n.json",
+            "ru.i18n.json",
+            "si.i18n.json",
+            "sk-SK.i18n.json",
+            "sl-SI.i18n.json",
+            "sq.i18n.json",
+            "sr.i18n.json",
+            "sv.i18n.json",
+            "ta-IN.i18n.json",
+            "th-TH.i18n.json",
+            "tr.i18n.json",
+            "ug.i18n.json",
+            "uk.i18n.json",
+            "vi-VN.i18n.json",
+            "zh-HK.i18n.json",
+            "zh-TW.i18n.json",
+            "zh.i18n.json"
+          ]
+        },
+        {
+          "absPath": "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n",
+          "include": [
+            "\\/$"
+          ],
+          "exclude": [
+            "^\\."
+          ],
+          "contents": []
+        }
+      ]
+    },
+    "web.browser.legacy.json": {
+      "files": {
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/package.js": "e73b428a2a7413f381424551d3ae72d7c59e0843",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/af.i18n.json": "8e3ffae48fc822a7ab7bdb78522363ff221eaf06",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/ar.i18n.json": "e4e7dda327d1e49d4793c48d96721f738f475369",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/az.i18n.json": "0477bbdfe8540f553c7b299716a332a972b0b918",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/be-BY.i18n.json": "b10edb28ee76083d41c10ed2bfe79582d43e2609",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/bg.i18n.json": "6e8246e73f42b24224b087c8b36fea90f8364096",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/bn-BD.i18n.json": "b45b8b288072cd1ddea0bd3d3d44b4bad2b160bb",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/bn-IN.i18n.json": "bf6e878577f6fb30ecf27c8d2f6a9101f4b73e8d",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/bs.i18n.json": "f399bd2edb56c554f8e175a7b5d2c72f3c2463ff",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/ca.i18n.json": "ce1fcfeabfa6d4d2fd5b3c335a4c9a3aeb7fb3bd",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/cs.i18n.json": "fda0d379d09a3bcad4d32c562be66a5cab0ede15",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/cy.i18n.json": "fcfc160c6ddde37b01d45dd84dd2a0557d660047",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/da.i18n.json": "7f47d229eb8aba53186ffc24fee4a2dd2f80d492",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/de-AT.i18n.json": "072179266c985cbd2909bcccc903912714029f5e",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/de-IN.i18n.json": "8a5008f77d97712029d4f3b7cf7599162aaa14a3",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/de.i18n.json": "2974fd4f6a2aaefedd2cc260266c169b6ccecc74",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/el.i18n.json": "4dcb6f79eec65e05c9e84072d084de8ae2e0fa1d",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/en.i18n.json": "eee224a7cda47b560dbb60e441874d3222d5f702",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/eo.i18n.json": "ee5a70ca0eaef8edb411b8eb436db921b2da8f5f",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/es.i18n.json": "189b0728ad55e3f7c215113d46a60125eeecd2e7",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/et.i18n.json": "3d441703a73daa247ba5549878cf4887238e5e41",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/eu.i18n.json": "c2a97d6439eb2090ed22e63cc917be05538b7f65",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/fa.i18n.json": "5d48a3983502059a965402c1d9a2c998157175ec",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/fi.i18n.json": "c0fc0af74d36becc60246f324b7a53358813abba",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/fr.i18n.json": "7efbceb67e2ae45858817ed0991eb847b9332afd",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/gl.i18n.json": "981581090977a5ac6e38b0440944f71da44fd75a",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/he.i18n.json": "7183f5c9eb33953ff0bd1e9552581245a97a2291",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/hi-IN.i18n.json": "4754d83631b916bcd2a6dc4d5525a9f6ed46ad36",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/hr.i18n.json": "7252467656db8734524c5e645b86e58aec82dd86",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/hu.i18n.json": "6eb7d5fd8e0a0bbfa7e3b7870eebaf7129152aa9",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/id.i18n.json": "77f00fcc33a1083092e9c7f6dc4d1999d98a5041",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/it.i18n.json": "a5e42acc280ca0e26d62f47a5a2e4f41f9d5367a",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/ja.i18n.json": "b99b1a4c13ebbb1556188c39544670665452af75",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/ka-GE.i18n.json": "b427a4c0d860013619643b9e27e0752e60817699",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/km.i18n.json": "ca4f2c56c7a85d0ddd66eb5b19692494b356097c",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/ko.i18n.json": "60844aeaaf72409cabe5381cebb55dc5895df7c5",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/ku.i18n.json": "5b7035c64cd195f88d7c5a302eec5a0ddc022b82",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/lo.i18n.json": "47b443a1b09dc9f281362eae29a7b9c49f6052e9",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/lt.i18n.json": "637072612a6b9fd36d4ebc616db2a58957298d60",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/lv.i18n.json": "2535253f6d1ed14986cc61e6f5fae0aa65ffb131",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/mn.i18n.json": "533e84b380ee8f832334d01fedb349c6236d8f72",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/ms-MY.i18n.json": "9159d06546c207abea7b52c4b9a4e126ed754d73",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/nl.i18n.json": "dd5f8e71a02fe24f00672fecad4c270ad7b4ade3",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/no.i18n.json": "f6b38c368968957ef852f86332337e36a42d0258",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/pl.i18n.json": "a8f60c6fd0e34f1556665481d493ae90a484c56b",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/pt-BR.i18n.json": "2c32a92c882686b53c92764e51b5cc39191d39dc",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/pt.i18n.json": "0522583b08b9942bd1f993240a7bc03e3253b5ce",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/ro.i18n.json": "a003908d11af1fd40ea6e6d12c6ccf079f4ac5a5",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/ru.i18n.json": "e64edd9127a372e7122fa785ebfced46349b2c65",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/si.i18n.json": "13ce48e520d3a93c7589f03332af158326b54a71",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/sk-SK.i18n.json": "35899959ff30b1e5f02ff23185bc963e2f8d7203",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/sl-SI.i18n.json": "ef9094dc2acf5b0aa3c55010c5f26fd6b46f4d8e",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/sq.i18n.json": "0727c680cf7149ccb24787b2a8c851f23fa79759",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/sr.i18n.json": "5f7b98f87c421e91cdadb68711554badd0b9f51c",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/sv.i18n.json": "87909f87fa9965dc98c454c14e3885cd27ff7248",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/ta-IN.i18n.json": "aaef330b72a5da55359ca6eaedae8b689c5d3cc1",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/th-TH.i18n.json": "be823c3eb69a6511c852633938a2cc0147174177",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/tr.i18n.json": "41154e37c4a1facebe548aa8562d02e941973009",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/ug.i18n.json": "5eee10df3086921a2223bc551c129ca6ccd99dc9",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/uk.i18n.json": "2be6e1bb8514d6f8f6bd0b5ec6f96be3af4a4438",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/vi-VN.i18n.json": "bfc08b76c3ad74b3647292c8f98e4ac6622c79f5",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/zh-HK.i18n.json": "727fbabc1ccdd0a3ddc1b6787a65db3d01faef8b",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/zh-TW.i18n.json": "f43a66f58997ef3723836831e9ec41b7254a1326",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/zh.i18n.json": "8286e52b0373d337ee4515fa2943c71961318d5a",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/bas-CM.i18n.json": "4448e1dbcb7f6e8f55f2f5b257a1169d8c4db209",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/kg.i18n.json": "4448e1dbcb7f6e8f55f2f5b257a1169d8c4db209",
+        "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n/ln.i18n.json": "4448e1dbcb7f6e8f55f2f5b257a1169d8c4db209"
+      },
+      "potentiallyUnusedFiles": [],
+      "directories": [
+        {
+          "absPath": "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n",
+          "include": [
+            "\\.css$",
+            "\\.html$",
+            "\\.i18n$",
+            "\\.project\\-tap\\.i18n$",
+            "\\.package\\-tap\\.i18n$",
+            "\\.i18n\\.json$",
+            "\\.i18n\\.yml$",
+            "\\.js$"
+          ],
+          "exclude": [
+            "^\\."
+          ],
+          "names": [
+            ".meteorignore"
+          ],
+          "contents": [
+            "package.js"
+          ]
+        },
+        {
+          "absPath": "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n",
+          "include": [
+            "\\/$"
+          ],
+          "exclude": [
+            "^\\."
+          ],
+          "contents": [
+            "i18n/"
+          ]
+        },
+        {
+          "absPath": "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n",
+          "include": [
+            "\\.css$",
+            "\\.html$",
+            "\\.i18n$",
+            "\\.project\\-tap\\.i18n$",
+            "\\.package\\-tap\\.i18n$",
+            "\\.i18n\\.json$",
+            "\\.i18n\\.yml$",
+            "\\.js$"
+          ],
+          "exclude": [
+            "^\\."
+          ],
+          "names": [
+            ".meteorignore"
+          ],
+          "contents": [
+            "af.i18n.json",
+            "ar.i18n.json",
+            "az.i18n.json",
+            "bas-CM.i18n.json",
+            "be-BY.i18n.json",
+            "bg.i18n.json",
+            "bn-BD.i18n.json",
+            "bn-IN.i18n.json",
+            "bs.i18n.json",
+            "ca.i18n.json",
+            "cs.i18n.json",
+            "cy.i18n.json",
+            "da.i18n.json",
+            "de-AT.i18n.json",
+            "de-IN.i18n.json",
+            "de.i18n.json",
+            "el.i18n.json",
+            "en.i18n.json",
+            "eo.i18n.json",
+            "es.i18n.json",
+            "et.i18n.json",
+            "eu.i18n.json",
+            "fa.i18n.json",
+            "fi.i18n.json",
+            "fr.i18n.json",
+            "gl.i18n.json",
+            "he.i18n.json",
+            "hi-IN.i18n.json",
+            "hr.i18n.json",
+            "hu.i18n.json",
+            "id.i18n.json",
+            "it.i18n.json",
+            "ja.i18n.json",
+            "ka-GE.i18n.json",
+            "kg.i18n.json",
+            "km.i18n.json",
+            "ko.i18n.json",
+            "ku.i18n.json",
+            "ln.i18n.json",
+            "lo.i18n.json",
+            "lt.i18n.json",
+            "lv.i18n.json",
+            "mn.i18n.json",
+            "ms-MY.i18n.json",
+            "nl.i18n.json",
+            "no.i18n.json",
+            "pl.i18n.json",
+            "pt-BR.i18n.json",
+            "pt.i18n.json",
+            "ro.i18n.json",
+            "ru.i18n.json",
+            "si.i18n.json",
+            "sk-SK.i18n.json",
+            "sl-SI.i18n.json",
+            "sq.i18n.json",
+            "sr.i18n.json",
+            "sv.i18n.json",
+            "ta-IN.i18n.json",
+            "th-TH.i18n.json",
+            "tr.i18n.json",
+            "ug.i18n.json",
+            "uk.i18n.json",
+            "vi-VN.i18n.json",
+            "zh-HK.i18n.json",
+            "zh-TW.i18n.json",
+            "zh.i18n.json"
+          ]
+        },
+        {
+          "absPath": "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/i18n",
+          "include": [
+            "\\/$"
+          ],
+          "exclude": [
+            "^\\."
+          ],
+          "contents": []
+        }
+      ]
+    }
+  },
+  "pluginDependencies": {
+    "files": {
+      "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n/package.js": "e73b428a2a7413f381424551d3ae72d7c59e0843"
+    },
+    "potentiallyUnusedFiles": [],
+    "directories": []
+  },
+  "pluginProviderPackageMap": {
+    "rocketchat:i18n": {
+      "kind": "local",
+      "sourceRoot": "/Users/amangupta/Documents/Open-Source/Rocket.Chat/packages/rocketchat-i18n"
+    },
+    "meteor": {
+      "kind": "versioned",
+      "version": "1.10.0"
+    },
+    "rocketchat:tap-i18n": {
+      "kind": "versioned",
+      "version": "3.0.0"
+    },
+    "templating": {
+      "kind": "versioned",
+      "version": "1.4.1"
+    },
+    "templating-runtime": {
+      "kind": "versioned",
+      "version": "1.5.0"
+    },
+    "templating-compiler": {
+      "kind": "versioned",
+      "version": "1.4.1"
+    }
+  },
+  "includeCordovaUnibuild": false
+}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["meteor://💻app/client/components/BurgerMenu/index.ts"],"names":[],"mappings":";;;;;;;;AAAA,OAAO,IAAP,CAAS,cAAT,EAAwB;AAAA;AAAA,CAAxB,EAAuC,CAAvC,E","file":"dynamic/client/components/BurgerMenu/index.ts","sourcesContent":["export { default } from './BurgerMenu';\n"]}
